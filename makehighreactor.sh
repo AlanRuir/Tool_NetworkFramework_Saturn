@@ -1,0 +1,1 @@
+g++ -o highreactor epoller.cpp eventloop.cpp handler.cpp mesgtcpserver.cpp mesgtcpsocket.cpp locker.cpp main.cpp tcpserver.cpp tcpsocket.cpp thread.cpp threadpool.cpp handlermesg.cpp -lpthread -ljsoncpp
